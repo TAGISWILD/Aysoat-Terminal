@@ -1,4 +1,4 @@
 # AysoatTerminal2021
-This is Aysoat Terminal 2021's pre realese
+This is Aysoat Terminal 2021's beta realese
  
-[click here](https://aysoatstore.blogspot.com/2021/01/download-aysoat-terminal-2021.html) if you are not used to Github
+if you are not used to Github, [Then Get Redirected To Our Store](https://tagiswild.github.io/app.html)
